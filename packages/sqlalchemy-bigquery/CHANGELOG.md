@@ -8,6 +8,13 @@ Older versions of this project were distributed as [pybigquery][0].
 
 [1]: https://pypi.org/project/sqlalchemy-bigquery/#history
 
+## [1.17.1](https://github.com/googleapis/google-cloud-python/compare/sqlalchemy-bigquery-v1.17.0...sqlalchemy-bigquery-v1.17.1) (2026-07-16)
+
+
+### Bug Fixes
+
+* **sqlalchemy-bigquery:** update literal binds test for SQLAlchemy 2.0 ([#17029](https://github.com/googleapis/google-cloud-python/issues/17029)) ([74f7a41](https://github.com/googleapis/google-cloud-python/commit/74f7a41fc957f4b8e1de91b193c756b6a99637e4))
+
 ## [1.17.0](https://github.com/googleapis/google-cloud-python/compare/sqlalchemy-bigquery-v1.16.0...sqlalchemy-bigquery-v1.17.0) (2026-05-06)
 
 
